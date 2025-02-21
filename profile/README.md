@@ -2,4 +2,4 @@
 
 We are b01lers, Purdue University’s premier Capture the Flag Team. We are constantly learning and applying practical skills in web security, system security, reverse engineering, cryptography, and forensics to compete against other schools and teams in Capture The Flag competitions. You can find our global and national standings on [CTFTime](https://ctftime.org/team/11464).
 
-![ctf-time](https://ctf.neilhommes.xyz/?teamid=11464?test=)
+![ctf-time](https://ctf.neilhommes.xyz/?teamid=11464)
